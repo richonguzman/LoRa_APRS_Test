@@ -27,3 +27,7 @@ example: "AB1CDE-11,1,#,L,LoRa RAK4630 Test,0.0000000,0.0000000,Y,15"
 
 
 if you want to delete previous configuration , drag "NRF52840_DeleteConfig.uf2" into the folder/virtual disk when boards is in boot loader mode.
+
+
+- 2024.09.17 Battery Pins correction proposal
+- 2024.09.15 Alpha
