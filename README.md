@@ -1,6 +1,6 @@
-# LoRa_APRS_Test
+# LoRa APRS Digirepeater Test for @RAKWireless WisBlock 4631
 
-RAK4630 NRF52840 test Firmware for digirepeater
+RAK4631 NRF52840 test Firmware for digirepeater
 
 Instructions:
 
