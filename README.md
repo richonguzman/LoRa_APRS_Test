@@ -40,7 +40,7 @@ example: "433.775,12,125.0,5,22"
 
 3) drag "firmware.uf2" file into the folder/external disk. It should reboot right away and you should get into any app that let you enter serial commands (Arduino IDE, VSCODE ...)
 
-4) The initial setup will ask you to paste the string sentences created in (A) and (B).
+4) The initial setup will ask you to paste the string sentences created in (A) first and then on another line (B).
 
 5) After the sucess in writing configuration , the station will reboot and start right away.
 
